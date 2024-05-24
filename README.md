@@ -41,4 +41,15 @@ bash
 5. **Contribution**: Contribute to the repository by suggesting improvements, reporting issues, or adding new features to enhance the AI server setup experience.
 
 ### License
-NIL
+
+Save and close the file.
+
+#### 9. **Commit and Push Changes**
+
+Add, commit, and push your changes to GitHub:
+
+```bash
+git add .
+git commit -m "Initial commit with setup scripts and documentation"
+git push origin main
+
