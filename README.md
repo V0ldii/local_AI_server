@@ -13,6 +13,21 @@ This repository contains scripts and documentation to streamline the setup proce
   
 - **User-Friendly Interface**: Access and interact with AI models through OpenUI's intuitive web interface, facilitating model management and monitoring.
 
+
+# AI Server Setup
+
+Scripts and documentation for setting up an AI server using pyenv, Docker, and OpenUI.
+
+## Prerequisites
+
+Ensure you have `curl` and `git` installed. You can install them using:
+
+```bash
+sudo apt-get install -y curl git
+
+
+
+
 ### How to Use
 
 1. **Clone the Repository**: Clone the repository to your local machine.
