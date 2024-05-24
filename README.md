@@ -22,8 +22,8 @@ Scripts and documentation for setting up an AI server using pyenv, Docker, and O
 
 Ensure you have `curl` and `git` installed. You can install them using:
 
-```bash
-sudo apt-get install -y curl git
+bash
+`sudo apt-get install -y curl git`
 
 
 
