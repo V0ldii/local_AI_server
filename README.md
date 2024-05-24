@@ -26,9 +26,4 @@ This repository contains scripts and documentation to streamline the setup proce
 5. **Contribution**: Contribute to the repository by suggesting improvements, reporting issues, or adding new features to enhance the AI server setup experience.
 
 ### License
-
-This project is licensed under the MIT License, allowing for flexibility and openness in usage and distribution.
-
----
-
-Feel free to adjust the description as needed to better reflect the focus and objectives of your repository!
+NIL
